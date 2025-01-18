@@ -1,0 +1,8 @@
+uv
+transformers
+diffusers
+tensorflow
+torch
+python-dotenv
+groq
+streamlit
